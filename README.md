@@ -1,5 +1,5 @@
 Rob Hughes (dzign1)
 
-Computer science student @ Lancaster University
+Computer science undergrad @ Lancaster University
 
 
