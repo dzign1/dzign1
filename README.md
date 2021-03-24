@@ -1,6 +1,6 @@
 ## Rob Hughes (dzign1)
 
-Computer science undergrad @ Lancaster University
+Computer Science undergraduate @ Lancaster University
 
 &
 
