@@ -2,12 +2,12 @@
 
 📚 Computer Science undergraduate 
 
-*Tabspace*📍 Lancaster University
+*Tabspace* 📍 Lancaster University
 
 &
 
 🗄 IT Support Analyst
 
-*Tabspace*📍 Ainscough Crane Hire
+*Tabspace* 📍 Ainscough Crane Hire
 
 LinkedIn - https://www.linkedin.com/in/robert-j-hughes/
