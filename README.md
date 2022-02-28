@@ -1,13 +1,11 @@
-## Rob Hughes (dzign1)
+## Rob Hughes (dzign1) 
 
-📚 Computer Science undergraduate 
+📍 Lancaster University
 
-*Tabspace* 📍 Lancaster University
+📚 Computer Science undergraduate
 
 &
 
-🗄 IT Support Analyst
-
-*Tabspace* 📍 Ainscough Crane Hire
+🗄 IT Support Analyst @ Ainscough Crane Hire
 
 LinkedIn - https://www.linkedin.com/in/robert-j-hughes/
