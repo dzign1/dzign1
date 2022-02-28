@@ -1,6 +1,6 @@
 ## Rob Hughes (dzign1) 
 
-# 📍 Lancaster University
+### 📍 Lancaster University
 
 📚 Computer Science undergraduate
 
