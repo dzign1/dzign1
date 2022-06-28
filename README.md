@@ -1,11 +1,7 @@
 ## Rob Hughes (dzign1) 
 
-📍 Lancaster University
+📍 Lancashire
 
-📚 Computer Science undergraduate
-
-&
-
-🗄 IT Support Analyst @ Ainscough Crane Hire
+🗄 Junior Software Engineer @ ResDiary
 
 LinkedIn - https://www.linkedin.com/in/robert-j-hughes/
