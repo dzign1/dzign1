@@ -1,6 +1,6 @@
 ## Rob Hughes (dzign1) 
 
-📍 Lancashire
+📍 Lancashire, UK
 
 🗄 Junior Software Engineer @ ResDiary
 
