@@ -2,6 +2,6 @@
 
 📍 Lancashire, UK
 
-🗄 Software Engineer @ ResDiary
+🗄 Site Reliability Engineer @ ResDiary
 
 LinkedIn - https://www.linkedin.com/in/robert-j-hughes/
