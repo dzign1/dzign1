@@ -1,7 +1,7 @@
 ## Rob Hughes (dzign1) 
 
-📍 Lancashire, UK
+📍 UK
 
-🗄 Site Reliability Engineer @ ResDiary
+🗄 System Engineer @ AWS
 
 LinkedIn - https://www.linkedin.com/in/robert-j-hughes/
